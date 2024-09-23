@@ -1,5 +1,3 @@
-
-
 //objects
 const person = {
     name: 'felipe',
